@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T10:23:21.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4eg2FEztl7Hssw47m5F5" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-27T10:41:14.827Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="22P78eo1BKwozr3EVS2G" version="22.1.12" type="github" pages="3">
   <diagram name="服务器采集器" id="gkJH9spfl-EzDToW0fA7">
     <mxGraphModel dx="1314" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f-F5l4-7jO0pTkN9CXiA-1" value="STK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f-F5l4-7jO0pTkN9CXiA-1" value="STK-A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f-F5l4-7jO0pTkN9CXiA-2" value="TO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -102,7 +102,7 @@
         <mxCell id="f-F5l4-7jO0pTkN9CXiA-6" value="" style="whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="150" y="190" width="610" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="f-F5l4-7jO0pTkN9CXiA-7" value="STK" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f-F5l4-7jO0pTkN9CXiA-7" value="STK-B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f-F5l4-7jO0pTkN9CXiA-8" value="TO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -113,6 +113,47 @@
         </mxCell>
         <mxCell id="f-F5l4-7jO0pTkN9CXiA-10" value="" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="758" y="190" width="10" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uqz2TKPlxYMm_8_e_SG8" name="物料移动">
+    <mxGraphModel dx="1314" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4fYSdgd9PQrYOskSSk9j-1" value="STK-A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fYSdgd9PQrYOskSSk9j-2" value="TO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4fYSdgd9PQrYOskSSk9j-3" value="TI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4fYSdgd9PQrYOskSSk9j-4" value="" style="whiteSpace=wrap;html=1;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4fYSdgd9PQrYOskSSk9j-5" value="" style="whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="610" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4fYSdgd9PQrYOskSSk9j-6" value="STK-B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fYSdgd9PQrYOskSSk9j-7" value="TO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4fYSdgd9PQrYOskSSk9j-8" value="TI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="748" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4fYSdgd9PQrYOskSSk9j-9" value="" style="whiteSpace=wrap;html=1;direction=south;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="758" y="190" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IxesMnjOPjWPbNiSoQ16-1" value="RCS" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxesMnjOPjWPbNiSoQ16-7" value="小车：AGV-1000&lt;br&gt;批次：L12340001&lt;br&gt;载具：F887799221&lt;br&gt;当前点位：第二个点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
