@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T11:01:29.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UIDmMrwLHUrAidxs6cgn" version="22.1.12" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-27T11:03:39.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CekYxBGZv1pmZEcz-VXj" version="22.1.12" type="github" pages="4">
   <diagram name="服务器采集器" id="gkJH9spfl-EzDToW0fA7">
     <mxGraphModel dx="1314" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="oIFblumI5vyZvlldHcW_-14" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="778" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-19" value="RCS异常&lt;br&gt;报错信息：电量不足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="598" y="240" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
