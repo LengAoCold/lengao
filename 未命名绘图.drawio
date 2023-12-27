@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T10:45:26.385Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GY8IGzkgbgSbTa5R2YbM" version="22.1.12" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-27T11:01:29.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UIDmMrwLHUrAidxs6cgn" version="22.1.12" type="github" pages="4">
   <diagram name="服务器采集器" id="gkJH9spfl-EzDToW0fA7">
     <mxGraphModel dx="1314" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,6 +163,65 @@
         </mxCell>
         <mxCell id="IxesMnjOPjWPbNiSoQ16-7" value="小车：AGV-1000&lt;br&gt;批次：L12340001&lt;br&gt;载具：F887799221&lt;br&gt;当前点位：第二个点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="90" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z-CaKzf57VOUv0qaao0F-1" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="268" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-CaKzf57VOUv0qaao0F-2" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-CaKzf57VOUv0qaao0F-3" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="778" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5j9mdpmAKrly5b3MzWzW" name="报错">
+    <mxGraphModel dx="1011" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oIFblumI5vyZvlldHcW_-1" value="STK-A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-2" value="TO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-3" value="TI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-4" value="" style="whiteSpace=wrap;html=1;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-5" value="" style="whiteSpace=wrap;html=1;direction=west;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="610" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-6" value="STK-B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-7" value="TO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-8" value="TI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="748" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-9" value="" style="whiteSpace=wrap;html=1;direction=south;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="758" y="190" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-10" value="RCS" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="728" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-11" value="小车：AGV-1000&lt;br&gt;批次：L12340001&lt;br&gt;载具：F887799221&lt;br&gt;当前点位：第四个点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="778" y="160" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-12" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="268" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-13" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-14" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="778" y="280" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
