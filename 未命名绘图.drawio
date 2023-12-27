@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T11:03:39.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CekYxBGZv1pmZEcz-VXj" version="22.1.12" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-27T11:04:22.069Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1xVpx_4_jrnj6zcSR5u0" version="22.1.12" type="github" pages="4">
   <diagram name="服务器采集器" id="gkJH9spfl-EzDToW0fA7">
     <mxGraphModel dx="1314" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,8 +211,8 @@
         <mxCell id="oIFblumI5vyZvlldHcW_-10" value="RCS" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="728" y="240" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oIFblumI5vyZvlldHcW_-11" value="小车：AGV-1000&lt;br&gt;批次：L12340001&lt;br&gt;载具：F887799221&lt;br&gt;当前点位：第四个点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="778" y="160" width="130" height="70" as="geometry" />
+        <mxCell id="oIFblumI5vyZvlldHcW_-11" value="小车：AGV-1000&lt;br&gt;批次：L12340001&lt;br&gt;载具：F887799221&lt;br&gt;当前点位：第四个点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="790" y="160" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oIFblumI5vyZvlldHcW_-12" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="268" width="30" height="30" as="geometry" />
@@ -223,8 +223,11 @@
         <mxCell id="oIFblumI5vyZvlldHcW_-14" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="778" y="280" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oIFblumI5vyZvlldHcW_-19" value="RCS异常&lt;br&gt;报错信息：电量不足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="598" y="240" width="130" height="40" as="geometry" />
+        <mxCell id="oIFblumI5vyZvlldHcW_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oIFblumI5vyZvlldHcW_-19" target="oIFblumI5vyZvlldHcW_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oIFblumI5vyZvlldHcW_-19" value="RCS异常&lt;br&gt;报错信息：电量不足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
